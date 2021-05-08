@@ -1,0 +1,19 @@
+body{
+    background-image: url('images/bgHTML.png');
+    background-repeat: no-repeat;
+    background-size: cover ;
+
+    
+}
+/* Canvas */
+#canvas{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 1350px;
+    height: 900px;
+    background-color: white;
+    font-family: 'Orbitron', sans-serif;
+    
+}
