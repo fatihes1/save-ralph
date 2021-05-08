@@ -31,12 +31,14 @@ If you do one of the above **two operations**, the project source codes    will 
 
 You can access the **tutorial pages** by clicking the **titles**.
 ## In-game Images
+
+
 > While the game is on
-![While the game is on](https://drive.google.com/file/d/15PaVcNQ3WWlO7teXhTNU1WWxhCq-nq-D/view?usp=sharing)
+![game](https://user-images.githubusercontent.com/54971670/117555500-673bed00-b068-11eb-91d9-91f09268ae62.png)
 >When the game is lost
-![When the game is lost](https://drive.google.com/file/d/1wDFKETIOzEX6W9UJUO8M32FNT-dp_BPa/view?usp=sharing)
+![gameover](https://user-images.githubusercontent.com/54971670/117555501-6a36dd80-b068-11eb-87a0-81eea3163945.png)
 >When the game is won
-![When the game is won](When%20the%20game%20is%20won)
+![win](https://user-images.githubusercontent.com/54971670/117555502-6c00a100-b068-11eb-85a8-d58fbddb0db8.png)
 ## For Developers
 
 The project consists of two folders **(pictures, sounds)** and 3 files. The images used in the game content are included in the `images` folder. The `sounds` folder contains the sound effects in the game.
