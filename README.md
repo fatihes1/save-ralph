@@ -1,6 +1,7 @@
 ﻿# Save Ralph!
 
-**Web-based** two-dimensional *(*2d*)* game prepared using **`Javascript`** and **`HTML`**.
+**Web-based** two-dimensional *(*2d*)* game prepared using **`Javascript`** and **`HTML`**. <br>
+[Click](http://save-ralph.eu5.org/) here for live demo!
 
 # Getting Started
 
