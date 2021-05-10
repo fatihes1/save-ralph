@@ -487,6 +487,9 @@ function handleGameStatus() {
 
         ctx.drawImage(gameOverImage, 290, 323, 770, 254);
         gameOverSound.play();
+        ctx.fillStyle = 'black';
+        ctx.font = '30px Orbitron';
+        ctx.fillText('Press F5 to play again or refresh the page.', 330, 710);
     }
     if (score > winningScore && enemies.length === 0) {
         ctx.fillStyle = 'black';
@@ -495,6 +498,8 @@ function handleGameStatus() {
         completeLevel.play();
         ctx.font = '45px Orbitron';
         ctx.fillText('You win with ' + score + ' points!', 201, 510);
+        ctx.font = '30px Orbitron';
+        ctx.fillText('Press F5 to play again or refresh the page.', 300, 710);
     }
 }
 
