@@ -26,7 +26,7 @@ If you do one of the above **two operations**, the project source codes    will 
 
 ## Gameplay
 Add defensive units (Alex) to the playing field using the mouse. <br> It is enough to move your mouse to the coins that appear in random areas in the game area. <br> You don't need to click. 
-###Help Alex save the animals from experiments!
+### Help Alex save the animals from experiments!
 
 ##  Built With
 
