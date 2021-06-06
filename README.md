@@ -24,6 +24,9 @@ or
 
 If you do one of the above **two operations**, the project source codes    will be downloaded to your local computer. After opening the directory with the source code, simply run the `index.html` file in a web browser such as **Google Chrome** or **Mozila Firefox**.
 
+## Gameplay
+Add defensive units to the playing field using the mouse (Alex). It is enough to move your mouse to the coins that appear in random areas in the game area. You don't need to click. Help Alex save the animals from experiments!
+
 ##  Built With
 
  - [HTML5](https://www.w3schools.com/html/), *Hypertext Markup Language*
